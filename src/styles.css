@@ -30,6 +30,7 @@ html {
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-direction: column;
     background-color: rgb(4, 17, 26);
 }
 
@@ -93,7 +94,7 @@ button:hover {
 #buttons-container {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
-    gap: 0.6rem;
+    gap: 0.4rem;
 
     grid-template-areas:    "ac ac div mult" 
                             "seven eight nine minus" 
@@ -194,4 +195,26 @@ button:hover {
 
 #nine {
     grid-area: nine;
+}
+
+
+/*********
+* Footer *
+*********/
+footer {
+    margin-top: 0.5rem;
+}
+
+address {
+    color: white;
+    font-size: 0.7rem;
+    font-style: normal;
+}
+
+address a {
+    color: var(--light-color);
+}
+
+address a:hover {
+    color: var(--mid-color);
 }
