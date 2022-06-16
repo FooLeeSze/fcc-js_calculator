@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/fcc-js_calculator/static/css/main.20064926.css",
-    "main.js": "/fcc-js_calculator/static/js/main.26e928ed.js",
+    "main.css": "/fcc-js_calculator/static/css/main.9438d38a.css",
+    "main.js": "/fcc-js_calculator/static/js/main.c1da4811.js",
     "index.html": "/fcc-js_calculator/index.html",
-    "main.20064926.css.map": "/fcc-js_calculator/static/css/main.20064926.css.map",
-    "main.26e928ed.js.map": "/fcc-js_calculator/static/js/main.26e928ed.js.map"
+    "main.9438d38a.css.map": "/fcc-js_calculator/static/css/main.9438d38a.css.map",
+    "main.c1da4811.js.map": "/fcc-js_calculator/static/js/main.c1da4811.js.map"
   },
   "entrypoints": [
-    "static/css/main.20064926.css",
-    "static/js/main.26e928ed.js"
+    "static/css/main.9438d38a.css",
+    "static/js/main.c1da4811.js"
   ]
 }
