@@ -220,7 +220,7 @@ export default function Calculator() {
 
             <div id="buttons-container">
                 <button id="clear" onClick={clr}>AC</button>
-                <button id="divide" className="operation-btn" onClick={handleOperator} value='/'>/</button>
+                <button id="divide" className="operation-btn" onClick={handleOperator} value='/'>÷</button>
                 <button id="multiply" className="operation-btn" onClick={handleOperator} value='*'>x</button>
                 <button id="add" className="operation-btn" onClick={handleOperator} value='+'>+</button>
                 <button id="subtract" className="operation-btn" onClick={handleOperator} value='-'>-</button>
@@ -242,4 +242,3 @@ export default function Calculator() {
         </div>
     )
 }
-
